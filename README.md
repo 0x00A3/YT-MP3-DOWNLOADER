@@ -7,7 +7,7 @@ So i made this script based of "youtube-dl" to install a youtube playlist as "MP
 3. > ffmpeg
 
 ---YOUTUBE-DL---
-Windows:
+> Windows:
 1. > pip3 install youtube-dl
 > Linux:
 1. > sudo apt-get install youtube-dl 
