@@ -9,19 +9,19 @@ So i made this script based of "youtube-dl" to install a youtube playlist as "MP
 ---YOUTUBE-DL---
 Windows:
 1. > pip3 install youtube-dl
-Linux:
+> Linux:
 1. > sudo apt-get install youtube-dl 
-Or
+> Or
 1. > sudo pip3 install youtube-dl
 ---FFMPEG---
-Windows:
+> Windows:
 1. > https://ffmpeg.org/download.html
-Linux:
+> Linux:
 1. > sudo apt-get install ffmpeg
 
 ---RUN THE SCRIPT---
-Windows:
+> Windows:
 1. > python3 yt.sh
-Linux:
+> Linux:
 1. > sudo chmod +x yt.sh
 2. > ./yt.sh
